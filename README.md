@@ -25,7 +25,7 @@ Exit the server.  Run...
 
 	mvn exec:exec@cp exec:exec@rm hpi:run
 
-(The goals above require Maven v3.3.3 or later)
+(The goals above require Maven v3.3.3 or later.)
 
 Now test...
  
