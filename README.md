@@ -1,3 +1,5 @@
+(forked to get working with wildfly 10.1.0.final from: dandillingham/wildfly-deployer-plugin)
+
 WildFly Deployer Plugin
 =====================
 
