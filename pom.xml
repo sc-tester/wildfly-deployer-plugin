@@ -51,7 +51,7 @@ THE SOFTWARE.
     <log4j-artifact>log4j-over-slf4j</log4j-artifact>
     <log4j-version>1.7.7</log4j-version>
     <wildfly-cli-artifact>wildfly-cli</wildfly-cli-artifact>
-    <wildfly-cli-version>8.2.1.Final</wildfly-cli-version>
+    <wildfly-cli-version>2.2.1.Final</wildfly-cli-version>
   </properties>
   
   <developers>
